@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Frontend Tech's,C++**
 
-- 📫 How to reach me **sandeepkrishna.2k@gmail.com**
+- 📫 To reachout to me, [**Mail me**](mailto:sandeepkrishna.2k@gmail.com)  
 
 
 <h2 align="center">Connect with me</h2>
