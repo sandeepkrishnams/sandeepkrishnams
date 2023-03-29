@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepkrishnams&show_icons=true&locale=en" alt="sandeepkrishnams" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkrishnams&" alt="sandeepkrishnams" /></p>
+
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepkrishnams)](https://github.com/anuraghazra/github-readme-stats)
