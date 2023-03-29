@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Fullstack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sandeepkrishnams](https://github.com/sandeepkrishnams)
+- 👨‍💻 All of my projects are available at [*My Github Repository*](https://github.com/sandeepkrishnams?tab=repositories)
 
 - 💬 Ask me about **Java, Frontend Tech's,C++**
 
