@@ -1,4 +1,4 @@
-<img src="https://github.com/sandeepkrishnams/sandeepkrishnams/blob/main/499786.png"/>
+<img src="https://github.com/sandeepkrishnams/sandeepkrishnams/blob/main/linkedinprofilepic.gif"/>
 <h1 align="center">Hi There👋, I'm Sandeep</h1>
 <h3 align="center">A passionate Engineering graduate from India</h3>
 
