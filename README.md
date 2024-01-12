@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/sandeep" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep?logo=twitter&style=for-the-badge" alt="sandeep" /></a> </p>
 
-- 🌱 I’m currently learning **Java Fullstack**
+- 🌱 I’m currently learning **Python & Node js**
 
 - 👨‍💻 All of my projects are available at [*My Github Repository*](https://github.com/sandeepkrishnams?tab=repositories)
 
-- 💬 Ask me about **Java, Frontend Tech's,C++**
+- 💬 Ask me about **Python,Vue, Node js, Linux, Docker,GIT**
 
 - 📫 To reachout to me, [**Mail me**](mailto:sandeepkrishna.2k@gmail.com)  
 
