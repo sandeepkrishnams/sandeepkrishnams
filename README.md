@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/sandeepkrishnams/sandeepkrishnams/blob/main/linkedinprofilepic.gif"/>
 <h1 align="center">Hi There👋, I'm Sandeep</h1>
-<h3 align="center">A passionate Engineering graduate from India</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkrishnams&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkrishnams" /> </p>
 
