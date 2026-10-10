@@ -1,44 +1,142 @@
-<img align="center" src="https://github.com/sandeepkrishnams/sandeepkrishnams/blob/main/linkedinprofilepic.gif"/>
-<h1 align="center">Hi There👋, I'm Sandeep</h1>
-<h3 align="center">Junior Software Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkrishnams&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkrishnams" /> </p>
+<img src="https://github.com/sandeepkrishnams/sandeepkrishnams/blob/main/linkedinprofilepic.gif?raw=true" alt="Sandeep Krishna MS — profile animation" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/sandeep" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep?logo=twitter&style=for-the-badge" alt="sandeep" /></a> </p>
+# Sandeep Krishna MS
 
-- 🌱 I’m currently learning **Python & Node js**
+### Backend Software Engineer · Python · Django · FastAPI
 
-- 👨‍💻 All of my projects are available at [*My Github Repository*](https://github.com/sandeepkrishnams?tab=repositories)
+Building reliable backend systems, scalable APIs, and production-ready cloud infrastructure.
 
-- 💬 Ask me about **Python,Vue, Node js, Linux, Docker,GIT**
+[![GitHub](https://img.shields.io/badge/GitHub-sandeepkrishnams-181717?style=flat-square&logo=github)](https://github.com/sandeepkrishnams)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:sandeepkadangode.ms@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=sandeepkrishnams&style=flat-square&color=0e75b6)
 
-- 📫 To reachout to me, [**Mail me**](mailto:sandeepkrishna.2k@gmail.com)  
+</div>
 
+## About me
 
-<h2 align="center">Connect with me</h2>
-<p align="center">
-<a href="https://github.com/sandeepkrishnams" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="dev" height="30" width="40" /></a>
-<a href="https://dev.to/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="30" width="40" /></a>
-<a href="https://twitter.com/sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeep" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack" height="30" width="40" /></a>
-<a href="https://fb.com/face" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="face" height="30" width="40" /></a>
-<a href="https://instagram.com/insts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insts" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="code" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hackereath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackereath" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/geeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks" height="30" width="40" /></a>
-<a href="https://discord.gg/dis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dis" height="30" width="40" /></a>
-</p>
+I'm a backend software engineer with **3 years of experience** designing, building, and operating web applications and backend services. I currently work at **Fegno Technologies, Kochi**, where I develop production services using **Django and FastAPI**, optimize databases and APIs, and support deployment and observability on AWS.
 
+My interests include **distributed systems, system design, infrastructure automation**, and building software that solves real operational problems.
 
+- 🔭 Working on production backend services, API performance, and cloud infrastructure
+- 🧩 Experienced with PostgreSQL/PostGIS, Redis, Elasticsearch, and asynchronous task processing
+- 🐧 Comfortable working across Linux, Docker, AWS, and Nginx
+- 🌱 Exploring AI-enabled applications and scalable system architecture
 
+## Focus areas
 
-<h2 align="center">Languages and Tools</h2>
+`Backend architecture` · `Distributed systems` · `API design` · `Geospatial platforms` · `Cloud infrastructure` · `Performance optimization`
 
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Engineering toolkit
 
+**Backend & languages**
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepkrishnams&show_icons=true&theme=vue" alt="sandeepkrishnams" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkrishnams&layout=compact" alt="code" height="195" width="467" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & asynchronous systems**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Cloud, infrastructure & observability**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+<details>
+<summary><strong>Additional experience</strong></summary>
+
+Vue.js · Nuxt.js · Firebase · AWS EC2, S3, RDS, IAM and Bedrock · REST API design · database indexing and optimization · caching · logging and monitoring
+
+</details>
+
+## Selected experience
+
+**Software Developer · Fegno Technologies** — *June 2024–Present*
+
+- Build scalable backend services and APIs with Django and FastAPI.
+- Improve performance through database optimization, indexing, and Redis caching.
+- Automate containerized deployments on AWS and improve system observability and error handling.
+
+**Junior Software Developer / Software Developer Trainee · Bridge Global Software Solutions** — *June 2023–June 2024*
+
+- Contributed to a sports event management platform and production maintenance.
+- Worked with Django, PostgreSQL, Vue.js, Nuxt.js, and AWS EC2.
+
+## Selected projects
+
+### 🚚 TruckBookers — Fleet Management & Truck Booking
+
+*June 2024–Present · Qatar logistics domain*
+
+Backend development for a platform connecting customers with commercial truck operators.
+
+- Designed and built backend services from scratch using Django and FastAPI.
+- Developed mobile-facing REST APIs supporting fleet workflows and real-time tracking.
+- **Led a three-person team** and supported Docker-based AWS deployments.
+
+`Django` `FastAPI` `PostGIS` `Redis` `Celery` `AWS` `Docker` `Sentry`
+
+### 🏗️ Building Materials Marketplace — Multi-Vendor E-commerce
+
+*January–July 2025*
+
+Backend architecture and services for a multi-vendor platform supporting sourcing, vendors, and transactions.
+
+- Designed the system architecture and co-developed backend services.
+- Supported vendor and payment integrations, search, and cloud deployment workflows.
+
+`Django` `FastAPI` `PostGIS` `Elasticsearch` `Redis` `Celery` `AWS` `Docker`
+
+> These are professional project summaries; source code may be proprietary.
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sandeepkrishnams&show_icons=true&hide_border=true&theme=transparent" alt="Sandeep's GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkrishnams&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages across public GitHub repositories" height="165" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sandeepkrishnams&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sandeepkrishnams&theme=default&hide_border=true" alt="GitHub contribution streak" />
+</picture>
+
+<details>
+<summary><strong>Contribution activity graph</strong></summary>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sandeepkrishnams&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepkrishnams&theme=github&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+</picture>
+</details>
+
+<details>
+<summary><strong>GitHub achievements</strong></summary>
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepkrishnams&theme=flat&no-frame=true&column=4&margin-w=10" alt="GitHub profile trophies" />
+</details>
+
+</div>
+
+<sub>Statistics reflect publicly visible GitHub activity and may not include private or employer-hosted work. Third-party widgets depend on their providers' uptime and API limits.</sub>
+
+## Connect
+
+Find my repositories at **[github.com/sandeepkrishnams](https://github.com/sandeepkrishnams)** or reach out by **[email](mailto:sandeepkadangode.ms@gmail.com)**.
